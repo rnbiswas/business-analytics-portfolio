@@ -82,4 +82,6 @@ Six short projects, each answering a different business question with a differen
 
 ## Files
 - `Business_Analytics_Portfolio_Report.pdf`: full report with all outputs
-- `images/`: key charts
+- `images/`: key charts 
+
+----------
